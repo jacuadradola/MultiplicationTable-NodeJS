@@ -1,5 +1,5 @@
 # Notas
-Este est una tabla de multiplicar
+Este es una tabla de multiplicar en Node
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
