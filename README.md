@@ -1,5 +1,5 @@
 # Notas
-Este es una tabla de multiplicar en Node
+Esta es una aplicación en consola que permite hacer una tabla de multiplicar construida en Node
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
